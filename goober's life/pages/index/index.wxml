@@ -1,0 +1,7 @@
+
+<view class="content">
+  <image class='background' src="../../pics/bg.jpg" mode="aspectFill"></image>
+</view>
+<view class="wx_view">
+<button class="wx_button" bindtap="jumpPage" >开始游戏</button>
+</view>

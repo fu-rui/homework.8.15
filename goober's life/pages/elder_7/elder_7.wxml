@@ -1,0 +1,12 @@
+<!--pages/elder_7/elder_7.wxml-->
+<view class="content">
+  <image class='background' src="../../pics/background.jpg" mode="aspectFill"></image>
+</view>
+
+<text class="wx_text" space="emsp">  你成为了学富五车的大学者，享年150岁</text>
+
+<view class="wx_view">
+<button class="wx_button" bindtap="jumpPage" >安乐死</button>
+</view>
+
+

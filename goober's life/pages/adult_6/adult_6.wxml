@@ -1,0 +1,26 @@
+<!--pages/adult_6/adult_6.wxml-->
+<view class="content">
+  <image class='background' src="../../pics/background.jpg" mode="aspectFill"></image>
+</view>
+
+
+<view class="margin">
+<text class="color">在医院里发现了一只被药物侵染的蜘蛛，你选择
+</text>
+</view>
+
+<view class="margin">
+<text class="color" bindtap="jumpPage1">让蜘蛛咬一口自己
+</text>
+</view>
+
+<view class="margin">
+<text class="color" bindtap="jumpPage2">赶紧把它丢出窗外
+</text>
+</view>
+
+<view class="margin">
+<text class="color" bindtap="jumpPage3">将它当作宠物饲养
+</text>
+</view>
+

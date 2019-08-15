@@ -1,0 +1,25 @@
+<!--pages/elder_1/elder_1.wxml-->
+<view class="content">
+  <image class='background' src="../../pics/background.jpg" mode="aspectFill"></image>
+</view>
+
+
+<view class="margin">
+<text class="color">你进入了一个当铺，名叫“八号当铺”，掌柜说到：想要什么都有，但你得用等额代价交换，你想要什么
+</text>
+</view>
+
+<view class="margin">
+<text class="color" bindtap="jumpPage1">永生
+</text>
+</view>
+
+<view class="margin">
+<text class="color" bindtap="jumpPage2">财富
+</text>
+</view>
+
+<view class="margin">
+<text class="color" bindtap="jumpPage3">我什么都不需要
+</text>
+</view>

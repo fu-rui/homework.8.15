@@ -1,0 +1,27 @@
+<!--pages/adult_2/adult_2.wxml-->
+<view class="content">
+  <image class='background' src="../../pics/background.jpg" mode="aspectFill"></image>
+</view>
+
+
+<view class="margin">
+<text class="color">未成功毕业：
+找工作，你选择成为一个___
+</text>
+</view>
+
+<view class="margin">
+<text class="color" bindtap="jumpPage1">外卖小哥
+</text>
+</view>
+
+<view class="margin">
+<text class="color" bindtap="jumpPage2">环卫工
+</text>
+</view>
+
+<view class="margin">
+<text class="color" bindtap="jumpPage3">服务员
+</text>
+</view>
+

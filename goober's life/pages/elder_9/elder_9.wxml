@@ -1,0 +1,10 @@
+<!--pages/elder_9/elder_9.wxml-->
+<view class="content">
+  <image class='background' src="../../pics/background.jpg" mode="aspectFill"></image>
+</view>
+
+<text class="wx_text" space="emsp">  被警察抓住你犯罪的证据，锒铛入狱，在狱中度过余生</text>
+<text>\n</text><text>\n</text><text>\n</text><text>\n</text><text>\n</text>
+<view class="wx_view">
+<button class="wx_button" bindtap="jumpPage" >后悔而死</button>
+</view>

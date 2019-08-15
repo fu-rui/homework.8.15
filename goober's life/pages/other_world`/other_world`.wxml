@@ -1,0 +1,11 @@
+<!--pages/other_world`/other_world`.wxml-->
+<view class="content">
+  <image class='background' src="../../pics/background.jpg" mode="aspectFill"></image>
+</view>
+
+<text class="wx_text" space="emsp">  死前发现国王就是那个魔王</text>
+<text>\n</text><text>\n</text><text>\n</text><text>\n</text><text>\n</text>
+<view class="wx_view">
+<button class="wx_button" bindtap="jumpPage" >后悔而死</button>
+</view>
+

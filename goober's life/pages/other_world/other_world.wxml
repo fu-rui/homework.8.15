@@ -1,0 +1,24 @@
+<!--pages/other_world/other_world.wxml-->
+<view class="content">
+  <image class='background' src="../../pics/background.jpg" mode="aspectFill"></image>
+</view>
+
+<view class="margin">
+<text class="color">你醒来发现自己居然到了一个完全没见过的世界，这个世界的国王想让你作为勇者打败魔王，并可以满足你一个愿望，你的选择是
+</text>
+</view>
+
+<view class="margin">
+<text class="color" bindtap="jumpPage1">给你很多金钱
+</text>
+</view>
+
+<view class="margin">
+<text class="color" bindtap="jumpPage2">给你一个对象
+</text>
+</view>
+
+<view class="margin">
+<text class="color" bindtap="jumpPage3">我才不要去当什么勇者
+</text>
+</view>

@@ -1,0 +1,21 @@
+<!--pages/adult_8/adult_8.wxml-->
+<view class="content">
+  <image class='background' src="../../pics/background.jpg" mode="aspectFill"></image>
+</view>
+
+<text>\n</text><text>\n</text>
+
+<text class="wx_text" space="emsp">  ...股票巨额亏损</text>
+
+<text>\n</text><text>\n</text>
+
+<text class="wx_text" space="emsp">     ..欠下高利贷</text>
+
+<text>\n</text><text>\n</text>
+
+<text class="wx_text" space="emsp">       .被仇家杀死</text>
+
+<view class="wx_view">
+<button class="wx_button" bindtap="jumpPage" >意外死亡</button>
+</view>
+

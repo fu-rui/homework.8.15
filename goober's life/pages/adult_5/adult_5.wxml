@@ -1,0 +1,25 @@
+<!--pages/adult_5/adult_5.wxml-->
+<view class="content">
+  <image class='background' src="../../pics/background.jpg" mode="aspectFill"></image>
+</view>
+
+
+<view class="margin">
+<text class="color">你所带的班级成绩比较差，你打算怎样管理他们
+</text>
+</view>
+
+<view class="margin">
+<text class="color" bindtap="jumpPage1">制定严厉规则，并体罚学生
+</text>
+</view>
+
+<view class="margin">
+<text class="color" bindtap="jumpPage2">耐心为学生们解答问题，增加他们的上课时间
+</text>
+</view>
+
+<view class="margin">
+<text class="color" bindtap="jumpPage3">对学生们说如果成绩变好，获得的巨额奖金分给他们一半
+</text>
+</view>

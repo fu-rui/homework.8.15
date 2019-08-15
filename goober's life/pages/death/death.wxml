@@ -1,0 +1,24 @@
+<!--pages/death/death.wxml-->
+
+<view class="container">
+    <view class="content">
+        <view class="content-word">
+            <view class="content-move">
+                <view class="world">《逗比人生》这款游戏是一个全靠玩家贡献内容的文字冒险类游戏,</view>
+                <view class="world">你需要对游戏人物的一生各种事件做出选择。</view>
+                <view class="world">在这些事件中，有令人捧腹大笑的，</view>
+                <view class="world">比如上小学时因为发现了班主任裤裆里的跳弹所以成绩一直名列前茅……</view>
+                <view class="world">比如上小学时因为发现了班主任裤裆里的跳弹所以成绩一直名列前茅……</view>
+                <view class="world">总之你在游戏中的一切选择都会决定你未来的命运，</view>
+                <view class="world">而你又能在这个坑死人不偿命的世界中生存多少年呢？</view>
+                <view class="world">相信这样一款魔性十足的游戏会给你带来不一样的游戏体验。</view>
+                <view class="world">游戏内的事件会根据角色的选择发生改变，</view>
+                <view class="world">一些事件也会随机发生。事件全靠玩家贡献，</view>
+                <view class="world">你也可以将你的想法，提交给作者，写进游戏中。</view>
+                <view class="world">《逗比人生》又名《逗比世界》，玩法都是一样的，就是你从1岁出生开始就经历各种选择，</view>
+                <view class="world">选择后你的人生会发生翻天覆地的变化，你唯一的目的就是努力活下去！</view>
+              </view>
+            </view>
+        </view>
+    </view>
+

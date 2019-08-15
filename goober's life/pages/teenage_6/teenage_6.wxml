@@ -1,0 +1,31 @@
+<!--pages/teenage_6/teenage_6.wxml-->
+<view class="content">
+  <image class='background' src="../../pics/background.jpg" mode="aspectFill"></image>
+</view>
+
+
+<view class="margin">
+<text class="color">你和同学们去山上郊游，野餐时你选择了哪种食材?
+</text>
+</view>
+
+<view class="margin">
+<text class="color" bindtap="jumpPage1">路边的蘑菇
+</text>
+</view>
+
+<view class="margin">
+<text class="color" bindtap="jumpPage2">河里的鱼
+</text>
+</view>
+
+<view class="margin">
+<text class="color" bindtap="jumpPage3">田螺
+</text>
+</view>
+
+<view class="margin">
+<text class="color" bindtap="jumpPage4">五片叶的三叶草
+</text>
+</view>
+

@@ -1,0 +1,34 @@
+<!--pages/teenage_1/teenage_1.wxml-->
+<view class="content">
+  <image class='background' src="../../pics/background.jpg" mode="aspectFill"></image>
+</view>
+
+<view class="margin">
+<text class="color">你去了动物园，你很喜欢_____，并上前摸了一把
+</text>
+</view>
+
+<view class="margin">
+<text class="color" bindtap="jumpPage1">老虎
+</text>
+</view>
+
+<view class="margin">
+<text class="color" bindtap="jumpPage2">猴子
+</text>
+</view>
+
+<view class="margin">
+<text class="color" bindtap="jumpPage3">犀牛
+</text>
+</view>
+
+<view class="margin">
+<text class="color" bindtap="jumpPage4">斑马
+</text>
+</view>
+
+<view class="margin">
+<text class="color" bindtap="jumpPage5">蛇
+</text>
+</view>

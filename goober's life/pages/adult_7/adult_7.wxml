@@ -1,0 +1,26 @@
+<!--pages/adult_7/adult_7.wxml-->
+<view class="content">
+  <image class='background' src="../../pics/background.jpg" mode="aspectFill"></image>
+</view>
+
+
+<view class="margin">
+<text class="color">你接到了一个客户，他的小说抄袭了另一个知名作家，你打算如何为他辩护
+</text>
+</view>
+
+<view class="margin">
+<text class="color" bindtap="jumpPage1">争辩“写书的事，能叫抄袭吗”
+</text>
+</view>
+
+<view class="margin">
+<text class="color" bindtap="jumpPage2">制造大量伪证，试图证明客户的小说先行出版
+</text>
+</view>
+
+<view class="margin">
+<text class="color" bindtap="jumpPage3">利诱那个知名作家，说服他承认小说未抄袭
+</text>
+</view>
+

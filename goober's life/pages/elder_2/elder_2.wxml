@@ -1,0 +1,26 @@
+<!--pages/elder_2/elder_2.wxml-->
+<view class="content">
+  <image class='background' src="../../pics/background.jpg" mode="aspectFill"></image>
+</view>
+
+
+<view class="margin">
+<text class="color">你由于不规律的生活，患上了肝硬化，你的选择是
+</text>
+</view>
+
+<view class="margin">
+<text class="color" bindtap="jumpPage1">多喝凉茶
+</text>
+</view>
+
+<view class="margin">
+<text class="color" bindtap="jumpPage2">多吃水果
+</text>
+</view>
+
+<view class="margin">
+<text class="color" bindtap="jumpPage3">多运动
+</text>
+</view>
+

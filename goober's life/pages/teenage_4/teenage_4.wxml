@@ -1,0 +1,25 @@
+<!--pages/teenage_4/teenage_4.wxml-->
+<view class="content">
+  <image class='background' src="../../pics/background.jpg" mode="aspectFill"></image>
+</view>
+
+
+<view class="margin">
+<text class="color">数学课上，老师提问：中国山区是上坡路多还是下坡路多?
+</text>
+</view>
+
+<view class="margin">
+<text class="color" bindtap="jumpPage1">什么破题
+</text>
+</view>
+
+<view class="margin">
+<text class="color" bindtap="jumpPage2">条件不足，此题无解
+</text>
+</view>
+
+<view class="margin">
+<text class="color" bindtap="jumpPage3">一样多
+</text>
+</view>

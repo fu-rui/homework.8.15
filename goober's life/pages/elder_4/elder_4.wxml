@@ -1,0 +1,25 @@
+<!--pages/elder_4/elder_4.wxml-->
+<view class="content">
+  <image class='background' src="../../pics/background.jpg" mode="aspectFill"></image>
+</view>
+
+
+<view class="margin">
+<text class="color">你的肝硬化/糖尿病/直肠癌已经进入了晚期，医生断言你活不过两年，你的选择是
+</text>
+</view>
+
+<view class="margin">
+<text class="color" bindtap="jumpPage1">继续多喝凉茶
+</text>
+</view>
+
+<view class="margin">
+<text class="color" bindtap="jumpPage2">继续多吃水果
+</text>
+</view>
+
+<view class="margin">
+<text class="color" bindtap="jumpPage3">找神婆给你跳大神
+</text>
+</view>

@@ -1,0 +1,26 @@
+
+<view class="content">
+  <image class='background' src="../../pics/background.jpg" mode="aspectFill"></image>
+</view>
+
+<view class="margin">
+<text class="color" bindtap="jumpPage">富二代:富有
+你出生时就有着有钱的父母以及其他人无法拥有的各种资源，站在起跑线的最前端
+</text>
+</view>
+
+<text>\n\n\n\n\n\n\n</text>
+
+<view class="margin">
+<text class="color" bindtap="jumpPage">玛丽苏:变化
+出生时有着一头七彩头发，随着情绪改变，受到异性医生及病人的喜爱
+</text>
+</view>
+
+<text>\n\n\n\n\n\n</text>
+
+<view class="margin">
+<text class="color" bindtap="jumpPage">贫困家庭：贫穷、瘦弱
+出生于一个普通家庭，家境贫困，容易吃不饱饭
+</text>
+</view>

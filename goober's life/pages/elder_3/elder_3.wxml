@@ -1,0 +1,8 @@
+<!--pages/elder_3/elder_3.wxml-->
+<view class="content">
+  <image class='background' src="../../pics/background.jpg" mode="aspectFill"></image>
+</view>
+<view class="wx_view">
+<text>由于糖分摄入过多，你患上了糖尿病，开始了经常进医院的日子</text>
+<button class="wx_button" bindtap="jumpPage" >生活继续</button>
+</view>

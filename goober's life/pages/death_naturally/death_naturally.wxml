@@ -1,0 +1,9 @@
+<!--pages/death_unnaturally/death_unnaturally.wxml-->
+<view class="content">
+  <image class='background' src="../../pics/background.jpg" mode="aspectFill"></image>
+</view>
+<view class="wx_view">
+<text>慢慢的你的身体越来越差，由于没有人愿意与你相处，20年后你最后孤独的死去了</text>
+<button class="wx_button" bindtap="jumpPage" >生命尽头</button>
+</view>
+

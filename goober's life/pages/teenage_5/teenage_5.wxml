@@ -1,0 +1,25 @@
+<!--pages/teenage_5/teenage_5.wxml-->
+<view class="content">
+  <image class='background' src="../../pics/background.jpg" mode="aspectFill"></image>
+</view>
+
+
+<view class="margin">
+<text class="color">有一天，有一只人模人样的狼来敲门，说是你的外婆，你独自在家，回应说___
+</text>
+</view>
+
+<view class="margin">
+<text class="color" bindtap="jumpPage1">打电话报警
+</text>
+</view>
+
+<view class="margin">
+<text class="color" bindtap="jumpPage2">沏茶，迎客
+</text>
+</view>
+
+<view class="margin">
+<text class="color" bindtap="jumpPage3">摊摊手，来把昆特牌吧
+</text>
+</view>

@@ -1,0 +1,26 @@
+<!--pages/teenage_8/teenage_8.wxml-->
+<view class="content">
+  <image class='background' src="../../pics/background.jpg" mode="aspectFill"></image>
+</view>
+
+
+<view class="margin">
+<text class="color">你在家里闻到了甲硫醇的味道，还听见了“丝丝“的声音，你决定___
+</text>
+</view>
+
+<view class="margin">
+<text class="color" bindtap="jumpPage1">不理睬
+</text>
+</view>
+
+<view class="margin">
+<text class="color" bindtap="jumpPage2">抽根烟压压惊，仔细思考原因
+</text>
+</view>
+
+<view class="margin">
+<text class="color" bindtap="jumpPage3">赶紧逃跑
+</text>
+</view>
+

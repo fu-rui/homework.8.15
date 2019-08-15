@@ -1,0 +1,29 @@
+<!--pages/teenage)2/teenage_2.wxml-->
+<view class="content">
+  <image class='background' src="../../pics/background.jpg" mode="aspectFill"></image>
+</view>
+
+<view class="margin">
+<text class="color"> 你比较喜欢吃___口味的豆腐脑
+</text>
+</view>
+
+<view class="margin">
+<text class="color" bindtap="jumpPage1">甜
+</text>
+</view>
+
+<view class="margin">
+<text class="color" bindtap="jumpPage2">咸
+</text>
+</view>
+
+<view class="margin">
+<text class="color" bindtap="jumpPage3">酸
+</text>
+</view>
+
+<view class="margin">
+<text class="color" bindtap="jumpPage4">辣
+</text>
+</view>
